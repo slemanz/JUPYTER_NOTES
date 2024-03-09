@@ -1,5 +1,5 @@
 # JUPYTER NOTEBOOK
 
-- [Basics](basic.ypynb)
+- [Basics](basic.ipynb)
 
-- [Graphs](graph.ypynb)
+- [Graphs](graph.ipynb)
